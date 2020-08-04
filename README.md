@@ -20,3 +20,6 @@ It accepts numbers from 1 to 9 as it has 9 positions and it won't accept a numbe
 Singleplayer mode:-
 Singleplayer mode also have two types of levels to choose one is easy and another is standard.
 Easy mode has a beginner bot playing against you and in the standard level you will play against an expert bot.
+
+
+When the match will be ended either by wining or by a tie after that the game will give you two options that if you want to play again or you want to exit. Then you can enter '0' if you want to exit and '1' if you want to play again.
